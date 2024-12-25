@@ -1,50 +1,34 @@
 [
     {
         "name": "Mercury",
-        "type": "Terrestrial",
-        "distance_from_sun": 57.9,
-        "traits": ["smallest planet", "closest to Sun", "no atmosphere"]
+        "distance_from_sun": 57.9
     },
     {
         "name": "Venus",
-        "type": "Terrestrial",
-        "distance_from_sun": 108.2,
-        "traits": ["hottest planet", "thick atmosphere", "retrograde rotation"]
+        "distance_from_sun": 108.2
     },
     {
         "name": "Earth",
-        "type": "Terrestrial",
-        "distance_from_sun": 149.6,
-        "traits": ["supports life", "blue planet", "has one moon"]
+        "distance_from_sun": 149.6
     },
     {
         "name": "Mars",
-        "type": "Terrestrial",
-        "distance_from_sun": 227.9,
-        "traits": ["red planet", "thin atmosphere", "two moons"]
+        "distance_from_sun": 227.9
     },
     {
         "name": "Jupiter",
-        "type": "Gas Giant",
-        "distance_from_sun": 778.5,
-        "traits": ["largest planet", "giant storm", "many moons"]
+        "distance_from_sun": 778.5
     },
     {
         "name": "Saturn",
-        "type": "Gas Giant",
-        "distance_from_sun": 1433.5,
-        "traits": ["ringed planet", "many moons", "low density"]
+        "distance_from_sun": 1433.5
     },
     {
         "name": "Uranus",
-        "type": "Ice Giant",
         "distance_from_sun": 2872.5,
-        "traits": ["tilted axis", "coldest planet", "pale blue color"]
     },
     {
         "name": "Neptune",
-        "type": "Ice Giant",
-        "distance_from_sun": 4495.1,
-        "traits": ["farthest planet", "strong winds", "blue planet"]
+        "distance_from_sun": 4495.1
     }
 ]
